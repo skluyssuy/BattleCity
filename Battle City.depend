@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1746456234 source:d:\lms\ltnc\battle city\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<vector>
+	<algorithm>
+	<SDL_ttf.h>
+	<fstream>
+
